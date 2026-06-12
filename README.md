@@ -11,7 +11,9 @@ The goal of this project was to apply HTML concepts in a practical way and under
 
 ## Project Preview
 
-![HTML Resume Screenshot](Screenshot.jpeg)
+<p align="center">
+  <img src="Screenshot.jpeg" width="600">
+</p>
 
 ## Features
 
