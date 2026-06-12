@@ -12,7 +12,7 @@ The goal of this project was to apply HTML concepts in a practical way and under
 ## Project Preview
 
 <p align="center">
-  <img src="Screenshot.jpeg" width="300">
+  <img src="Screenshot.jpeg" width="500">
 </p>
 
 ## Features
