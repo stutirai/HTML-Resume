@@ -1,7 +1,7 @@
 
 # HTML Resume
 
-A personal resume website built using HTML.
+My first web development project- a personal resume website built using HTML.
 
 ## About the Project
 
@@ -9,11 +9,6 @@ This project is a digital version of my resume created using HTML. It presents m
 
 The goal of this project was to apply HTML concepts in a practical way and understand how information can be organized and displayed on a web page.
 
-## Project Preview
-
-<p align="center">
-  <img src="Screenshot.jpeg" width="500">
-</p>
 
 ## Features
 
@@ -28,6 +23,9 @@ The goal of this project was to apply HTML concepts in a practical way and under
 ## Technologies Used
 
 * HTML5
+
+## Live Demo
+https://stutirai.github.io/HTML-Resume/
 
 ## Learning Outcomes
 
