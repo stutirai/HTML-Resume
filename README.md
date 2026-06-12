@@ -11,8 +11,7 @@ The goal of this project was to apply HTML concepts in a practical way and under
 
 ## Project Preview
 
-![HTML Resume Screenshot]
-(screenshot.jpeg)
+![HTML Resume Screenshot](Screenshot.jpeg)
 
 ## Features
 
