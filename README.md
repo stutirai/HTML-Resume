@@ -39,8 +39,6 @@ Through this project, I learned:
 
 ## Author
 
-## Author
-
 **Stuti Rai**
 - B.Tech, Artificial Intelligence & Data Science
 - Aspiring Software Developer
